@@ -19,9 +19,9 @@ ms.contentlocale: ko-KR
 ms.lasthandoff: 04/26/2018
 ---
 # <a name="modeling-sdk-for-visual-studio---domain-specific-languages"></a>Visual Studio용 모델링 SDK - 도메인별 언어
-에 대 한 Modeling SDK를 사용 하 여 [!INCLUDE[vsprvs](../code-quality/includes/vsprvs_md.md)]를 통합할 수 있는 모델을 기반으로 강력한 개발 도구를 만들 수 [!INCLUDE[vsprvs](../code-quality/includes/vsprvs_md.md)]합니다. 동일한 방식으로 하나 이상의 모델 정의를 만들고 도구 집합으로 통합할 수 있습니다.
+[!INCLUDE[vsprvs](../code-quality/includes/vsprvs_md.md)]를 위한 Modeling SDK를 사용하여 [!INCLUDE[vsprvs](../code-quality/includes/vsprvs_md.md)]에 통합할 수 있는 강력한 모델 기반의 개발 도구를 만들 수 있습니다. 동일한 방식으로 하나 이상의 모델 정의를 만들고 그것들을 도구 집합으로 통합할 수 있습니다.
 
- MSDK의 핵심은 비즈니스 영역에서 개념을 나타내기 위해 만드는 모델의 정의입니다. 다이어그램 보기, 코드와 다른 아티팩트를 생성하는 기능, 모델 변환 명령, 코드와 [!INCLUDE[vsprvs](../code-quality/includes/vsprvs_md.md)]의 다른 개체와 상호 작용하는 기능과 같은 다양한 도구를 사용하여 모델을 감쌀 수 있습니다. 모델을 개발할 때 다른 모델 및 도구와 결합하여 개발에 중점을 두는 강력한 도구 집합을 구성할 수 있습니다.
+ MSDK의 핵심은 비즈니스 영역에서 개념을 나타내기 위해 당신이 만든 모델의 정의입니다. 다이어그램 보기, 코드와 다른 아티팩트를 생성하는 기능, 모델 변환 명령, 코드와 [!INCLUDE[vsprvs](../code-quality/includes/vsprvs_md.md)]의 다른 개체와 상호 작용하는 기능과 같은 다양한 도구를 사용하여 모델을 감쌀 수 있습니다. 모델을 개발할 때 다른 모델 및 도구와 결합하여 개발에 중점을 두는 강력한 도구 집합을 구성할 수 있습니다.
 
  MSDK를 사용하여 도메인 관련 언어(DSL) 형태로 모델을 신속하게 개발할 수 있습니다. 특수 편집기를 사용하여 그래픽 표시법과 함께 스키마 또는 추상 구문을 정의하기 시작합니다. 이 정의로부터 VMSDK는 다음을 생성합니다.
 
